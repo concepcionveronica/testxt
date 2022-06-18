@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cero uno dos tres cuatro cinco seis siete ocho nueve 
+=======
+cero uno dos tres cuatro cinco seia siete ocho nueve ;
+>>>>>>> 729bd6c24bc7cdad93d1eb00ff7222ffd1e34e71
